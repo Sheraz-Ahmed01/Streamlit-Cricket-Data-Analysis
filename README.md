@@ -12,11 +12,11 @@ Interactive high-level overview displaying core summary metrics—such as total 
 
 **Player Analysis**
 
-Deep-dive into individual player career statistics, featuring interactive bar charts and distribution pie charts.  🌍 Country Insights: Regional and country-wise performance aggregations and breakdowns.
+Deep-dive into individual player career statistics, featuring interactive bar charts and distribution pie charts. Country Insights: Regional and country-wise performance aggregations and breakdowns.
 
 **Comparison Tool**
 
-Visual scatter plots comparing multiple players across key metrics like runs, strike rate, averages, and boundary counts.  📁 Data Explorer: Full raw data table with filtering and sorting capabilities to inspect specific player attributes.
+Visual scatter plots comparing multiple players across key metrics like runs, strike rate, averages, and boundary counts. Data Explorer: Full raw data table with filtering and sorting capabilities to inspect specific player attributes.
 
 **About**
 
